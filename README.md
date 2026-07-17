@@ -1,1 +1,1 @@
-![CI](https://github.com/JaniceBrun/pipeline/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/JaniceBrun/pipleine/actions/workflows/ci.yml/badge.svg)
